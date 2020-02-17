@@ -1,0 +1,4 @@
+rootProject.name = 'pet.rest.test'
+include 'app'
+include 'test'
+
